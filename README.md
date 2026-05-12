@@ -2,7 +2,7 @@
 
 A modern cryptography toolbox combining classic and modern algorithms in one clean interface.
 
-Built as a university project for **Security & Cryptography** (Labs 10–12) and **Website Development**.
+Built as a university project for **Security & Cryptography** (Labs 10–12) and **Web Services and Design**.
 
 ## Features
 
@@ -140,4 +140,4 @@ docker run -p 8000:8000 cryptograph
 
 ## Author
 
-Luka Gotsadze — Security & Cryptography Lab Project, 2026
+Luka Gotsadze — Security & Cryptography / Web Services and Design Lab Project, 2026
