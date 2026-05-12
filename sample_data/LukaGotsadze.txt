@@ -1,0 +1,4 @@
+This is a sample file for CryptoGraph testing.
+Author: Luka Gotsadze
+Purpose: Used for SHA-256 file hashing and RSA digital signature tests.
+Content: The quick brown fox jumps over the lazy dog.
